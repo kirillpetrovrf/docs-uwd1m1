@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-55gcvi.kujang138bos.online/sitemap.xml
